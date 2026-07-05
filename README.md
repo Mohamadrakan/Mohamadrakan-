@@ -6,7 +6,7 @@ I'm a Software Engineer passionate about building scalable web applications, eff
 
 I enjoy solving problems, learning new technologies, and continuously expanding my knowledge across different areas of software engineering. My goal is to become a well-rounded developer with expertise spanning multiple domains, always striving to build reliable, high-performance applications that create real value.
 
-I work with HTML, CSS, JavaScript, TypeScript, React, Next.js, Bootstrap, C#, PHP, Python, SQL, Git, and GitHub, while constantly improving my skills through hands-on projects and continuous learning. I'm currently developing projects such as a Port Management System and an E-commerce Platform, applying software engineering principles to build scalable, maintainable, and user-focused solutions.
+I work with HTML, CSS, JavaScript, Tailwind, TypeScript, React, Next.js, Bootstrap, C#, PHP, Python, SQL, Git, and GitHub, while constantly improving my skills through hands-on projects and continuous learning. I'm currently developing projects such as a Port Management System and an E-commerce Platform, applying software engineering principles to build scalable, maintainable, and user-focused solutions.
 
 Beyond coding, I'm always exploring new technologies, taking professional courses, and staying up to date with the latest trends in software development—both within my field and beyond. I believe that learning never stops, and every new challenge is an opportunity to grow.
 
@@ -35,6 +35,7 @@ Feel free to connect with me if you enjoy discussing software engineering, web d
 
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"></code>
